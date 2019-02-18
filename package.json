@@ -1,0 +1,24 @@
+{
+  "name": "server-images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eshavrov/server-images.git"
+  },
+  "keywords": [],
+  "author": "Evgeniy Shavrov <shavrov.ep@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eshavrov/server-images/issues"
+  },
+  "homepage": "https://github.com/eshavrov/server-images#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "sharp": "^0.21.3"
+  }
+}
