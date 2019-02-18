@@ -4,7 +4,7 @@ const fs = require('fs');
 
 const server = express();
 
-server.listen(8000, () => {
+server.listen(80, () => {
   console.log('Start Images Server');
 });
 
